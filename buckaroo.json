@@ -1,0 +1,6 @@
+{
+  "name": "buckaroo-test-glfw-glfw",
+  "dependencies": {
+    "glfw/glfw": "3.2.1"
+  }
+}
