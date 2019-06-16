@@ -2,5 +2,7 @@
 /.buckd
 /buck-out
 .buckconfig.local
+/.buckconfig.d
 BUCKAROO_DEPS
 buckaroo.lock.json
+buckaroo_macros.bzl

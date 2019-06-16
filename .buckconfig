@@ -1,9 +1,5 @@
-[cxx]
-  should_remap_host_platform = true
-
 [project]
   ignore = .buckd, .git
 
-[repositories]
-  glfw.glfw = buckaroo/official/glfw/glfw
-
+[cxx]
+  should_remap_host_platform = true
